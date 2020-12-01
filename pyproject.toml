@@ -6,6 +6,12 @@ authors = ["Colin Davis <cvdavis3@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.1.4"
+jupyterlab = "^2.2.9"
+matplotlib = "^3.3.3"
+ipykernel = "^5.3.4"
+numpy = "^1.19.4"
+pytest = "^6.1.2"
 
 [tool.poetry.dev-dependencies]
 
